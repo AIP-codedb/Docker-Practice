@@ -1,1 +1,1 @@
-![worflow-diagram](https://github.com/AIP-codedb/Docker-Practice/blob/main/production-workflow/image1.png)
+![worflow-diagram](https://github.com/AIP-codedb/Docker-Practice/blob/main/production-workflow/Images/image1.png)
