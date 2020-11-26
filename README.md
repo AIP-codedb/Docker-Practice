@@ -62,6 +62,11 @@ docker build -t amitkora/redis:latest .
 >tag latest is taken by default
 docker run amitkora/redis
 
+# Creating a simpleweb
+
+# Port mapping
+docker run -p 8080:8080 amitkora/simpleweb
+
 
  
 
