@@ -67,6 +67,13 @@ docker run amitkora/redis
 # Port mapping
 docker run -p 8080:8080 amitkora/simpleweb
 
+#App to count number of visits
+multiple docker container with node app and one container with redis to store the count
+
+In the example we will have one container for node app and one container for redis
+
+
+
 
  
 
