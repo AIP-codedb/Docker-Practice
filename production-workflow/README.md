@@ -1,0 +1,1 @@
+![worflow-diagram](https://github.com/AIP-codedb/Docker-Practice/blob/main/production-workflow/image1.png)
