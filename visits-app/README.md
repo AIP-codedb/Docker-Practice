@@ -39,5 +39,11 @@ restart: no/always/on-failure/unless-stopped
 
 docker-compose ps
 
+# to run multiple containers in background with docker-compose
+
+docker-compose up -d
+
+docker-compose down
+
 
 
