@@ -25,5 +25,19 @@ docker build .
 
 docker run <image>
 
+# to run/stop multiple containers in background with docker-compose
+
+docker-compose up -d
+
+docker-compose down
+
+# restart policy in docker-compose in case of any container failure
+
+restart: no/always/on-failure/unless-stopped
+
+# status of container in compose file
+
+docker-compose ps
+
 
 

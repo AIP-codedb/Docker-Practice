@@ -74,8 +74,16 @@ In the example we will have one container for node app and one container for red
 
 
 
+> runs the container in background
+docker run -d redis
 
- 
+> to run multiple containers in background with docker-compose
+
+docker-compose up -d
+
+docker-compose down
+
+
 
 
 
